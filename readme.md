@@ -19,7 +19,7 @@ A project management tool API built with Django and Django REST Framework, enabl
 ### **1. Clone the Repository**
 Clone the project from the repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone https://github.com/mahinhasan/project_management.git
 cd project_management
 
 
